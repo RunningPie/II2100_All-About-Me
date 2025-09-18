@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  <style>
+    /* Floating toggle button */
+    #audio-toggle {
+      position: fixed;
+      bottom: 2.5rem;
+      right: 1rem;
+      background: rgba(0,0,0,0.6);
+      color: white;
+      border: none;
+      border-radius: 50%;
+      width: 48px;
+      height: 48px;
+      font-size: 1.2rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 9999;
+      transition: background 0.2s;
+    }
+    #audio-toggle:hover {
+      background: rgba(0,0,0,0.8);
+    }
+  </style>
+{% endblock %}
+
+{% block header %}
+  {{ super() }}
+
+  <!-- Global background music -->
+  <audio id="bg-music" autoplay loop muted>
+    <source src="https://data.freetouse.com/music/tracks/fe696c5c-0441-4801-9030-3a0b3077b4a0/file/mp3" type="audio/mpeg">
+  </audio>
+
+  <!-- Floating toggle button -->
+  <button id="audio-toggle" title="Toggle music">🔇</button>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const audio = document.getElementById('bg-music');
+      const toggle = document.getElementById('audio-toggle');
+
+      audio.volume = 0.25; // set comfortable default
+
+      // First user interaction: unmute
+      const unmuteOnce = () => {
+        audio.muted = false;
+        toggle.textContent = '🔊';
+        document.removeEventListener('click', unmuteOnce);
+      };
+      document.addEventListener('click', unmuteOnce);
+
+      // Toggle button click
+      toggle.addEventListener('click', (e) => {
+        e.stopPropagation(); // prevent triggering unmuteOnce
+        audio.muted = !audio.muted;
+        toggle.textContent = audio.muted ? '🔇' : '🔊';
+      });
+    });
+  </script>
+{% endblock %}

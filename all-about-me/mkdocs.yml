@@ -1,6 +1,7 @@
 site_name: All About Me
 theme:
   name: material
+  custom_dir: overrides
   palette:
     primary: indigo
     accent: indigo
@@ -10,6 +11,9 @@ theme:
   features:
     - navigation.tabs
     - navigation.top
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.prefetch
     - search.highlight
     - search.suggest
     - toc.integrate
@@ -37,3 +41,6 @@ markdown_extensions:
   - admonition
   - codehilite
   - footnotes
+
+extra_css:
+  - styles/extra.css

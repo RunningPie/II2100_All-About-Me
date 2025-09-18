@@ -44,6 +44,8 @@
       
     
     
+      <link rel="stylesheet" href="../styles/extra.css">
+    
     <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -51,6 +53,32 @@
     
     
     
+  
+  <style>
+    /* Floating toggle button */
+    #audio-toggle {
+      position: fixed;
+      bottom: 2.5rem;
+      right: 1rem;
+      background: rgba(0,0,0,0.6);
+      color: white;
+      border: none;
+      border-radius: 50%;
+      width: 48px;
+      height: 48px;
+      font-size: 1.2rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 9999;
+      transition: background 0.2s;
+    }
+    #audio-toggle:hover {
+      background: rgba(0,0,0,0.8);
+    }
+  </style>
+
   </head>
   
   
@@ -78,6 +106,7 @@
     </div>
     
     
+  
       
 
 <header class="md-header" data-md-component="header">
@@ -161,6 +190,39 @@
   
 </header>
     
+
+  <!-- Global background music -->
+  <audio id="bg-music" autoplay loop muted>
+    <source src="https://data.freetouse.com/music/tracks/fe696c5c-0441-4801-9030-3a0b3077b4a0/file/mp3" type="audio/mpeg">
+  </audio>
+
+  <!-- Floating toggle button -->
+  <button id="audio-toggle" title="Toggle music">🔇</button>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const audio = document.getElementById('bg-music');
+      const toggle = document.getElementById('audio-toggle');
+
+      audio.volume = 0.25; // set comfortable default
+
+      // First user interaction: unmute
+      const unmuteOnce = () => {
+        audio.muted = false;
+        toggle.textContent = '🔊';
+        document.removeEventListener('click', unmuteOnce);
+      };
+      document.addEventListener('click', unmuteOnce);
+
+      // Toggle button click
+      toggle.addEventListener('click', (e) => {
+        e.stopPropagation(); // prevent triggering unmuteOnce
+        audio.muted = !audio.muted;
+        toggle.textContent = audio.muted ? '🔇' : '🔊';
+      });
+    });
+  </script>
+
     <div class="md-container" data-md-component="container">
       
       
@@ -666,10 +728,12 @@
       <div class="md-dialog__inner md-typeset"></div>
     </div>
     
+      <div class="md-progress" data-md-component="progress" role="progressbar"></div>
+    
     
     
       
-      <script id="__config" type="application/json">{"base": "..", "features": ["navigation.tabs", "navigation.top", "search.highlight", "search.suggest", "toc.integrate", "content.code.annotate", "content.code.copy", "content.tabs.link", "header.autohide"], "search": "../assets/javascripts/workers/search.973d3a69.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+      <script id="__config" type="application/json">{"base": "..", "features": ["navigation.tabs", "navigation.top", "navigation.instant", "navigation.instant.progress", "navigation.instant.prefetch", "search.highlight", "search.suggest", "toc.integrate", "content.code.annotate", "content.code.copy", "content.tabs.link", "header.autohide"], "search": "../assets/javascripts/workers/search.973d3a69.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
     
     
       <script src="../assets/javascripts/bundle.f55a23d4.min.js"></script>
