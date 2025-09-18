@@ -653,6 +653,8 @@
   <source src="https://data.freetouse.com/music/tracks/0b2af3c9-f44f-df2f-0ae3-1a75f439829d/file/mp3" type="audio/mpeg">
 </audio></p>
 <script>
+const audio = document.getElementById('bg-music');
+audio.volume = 0.25; // 0.0 = mute, 1.0 = full volume
 document.addEventListener('click', () => {
   document.getElementById('bg-music').play();
 }, { once: true });
@@ -660,8 +662,12 @@ document.addEventListener('click', () => {
 
 <p>Hello Everyone! 👋
 This static site is an autobiography made to introduce myself. But the introduction has it's own page you can check out later in the navbar on the left side.</p>
-<p>For now, welcome to my home (that's why this landing page is called home). Enjoy the music and have some coffee.
-<span onclick="alert('Enjoy your coffee!')">☕</span></p>
+<p>For now, welcome to my home (that's why this landing page is called home). Enjoy the music and have some coffee.</p>
+<div class="admonition tip">
+<p class="admonition-title">Click the Coffee!</p>
+<p>Tap the ☕ emoji below to get a surprise message.</p>
+</div>
+<p><span onclick="alert('Enjoy your coffee!')">☕</span></p>
 <div class="admonition info">
 <p class="admonition-title">Notes</p>
 <p>This static site webpage made using MkDocs is part of an assignment for the course II2100 - Interpersonal Communications at ITB.</p>
