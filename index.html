@@ -185,7 +185,7 @@
           
   
   
-  Click Here
+  Welcome
 
         </a>
       </li>
@@ -259,7 +259,7 @@
   
   
   <span class="md-ellipsis">
-    Click Here
+    Welcome
     
   </span>
   
@@ -270,7 +270,7 @@
         <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_1">
             <span class="md-nav__icon md-icon"></span>
-            Click Here
+            Welcome
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
             
@@ -649,10 +649,15 @@
 
 <h1 id="welcome">Welcome</h1>
 <h2 id="home">Home</h2>
-<p><audio autoplay loop>
+<p><audio id="bg-music" loop>
   <source src="https://data.freetouse.com/music/tracks/0b2af3c9-f44f-df2f-0ae3-1a75f439829d/file/mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
 </audio></p>
+<script>
+document.addEventListener('click', () => {
+  document.getElementById('bg-music').play();
+}, { once: true });
+</script>
+
 <p>Hello Everyone! 👋
 This static site is an autobiography made to introduce myself. But the introduction has it's own page you can check out later in the navbar on the left side.</p>
 <p>For now, welcome to my home (that's why this landing page is called home). Enjoy the music and have some coffee.
