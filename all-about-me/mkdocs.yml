@@ -1,0 +1,39 @@
+site_name: All About Me
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - toc.integrate
+    - content.code.annotate
+    - content.code.copy
+    - content.tabs.link
+    - header.autohide
+nav:
+  - Click Here:
+    - Home: index.md
+    - 1. Introduction: introduction.md
+    - 2. My Songs for You: my-songs-for-you.md
+    - 3. My Stories for You: my-stories-for-you.md
+    - 4. My Shapes: my-shapes.md
+    - 5. My Personal Reviews: my-personal-reviews.md
+    - 6. My Concepts: my-concepts.md
+    - 7. My Opinions: my-opinions.md
+    - 8. My Innovations: my-innovations.md
+    - 9. My Knowledge: my-knowledge.md
+    - 10. My Professional Reviews: my-professional-reviews.md
+    - 11. Sumamry: summary.md
+    - References: references.md
+  
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
