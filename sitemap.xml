@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://runningpie.github.io/II2100_All-About-Me/</loc>
-         <lastmod>2025-09-18</lastmod>
+         <lastmod>2025-10-13</lastmod>
     </url>
     <url>
          <loc>https://runningpie.github.io/II2100_All-About-Me/introduction/</loc>
-         <lastmod>2025-09-18</lastmod>
+         <lastmod>2025-10-13</lastmod>
+    </url>
+    <url>
+         <loc>https://runningpie.github.io/II2100_All-About-Me/my-shapes/</loc>
+         <lastmod>2025-10-13</lastmod>
     </url>
 </urlset>
