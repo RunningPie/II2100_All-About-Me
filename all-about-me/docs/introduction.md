@@ -2,6 +2,8 @@
 
 Portfolio Asesmen II2100 KIPP
 
+![dama intro pic]()
+
 Author: 18222047 Dama D. Daliman
 
 Published: September 18, 2025
