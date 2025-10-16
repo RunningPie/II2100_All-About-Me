@@ -22,9 +22,9 @@ Looking ahead, I’m eager to bring this balanced mindset into a professional en
 
 - Empathetic Collaborator: Using empathy and collaborative intelligence to work effectively within a team and understand user needs.
 
-Decision Compass:
+**Decision Compass:**
 
-- Ethical Alignment: Does this align with my core values of ethics and integrity
+- Ethical Alignment: Does this align with my core values of ethics and integrity?
 - Potential for Learning: Does this offer an opportunity to learn and grow, acknowledging there is always more to know?
 - Making the Choice Right: Is this a path where I can commit to making my choice right, rather than searching for a perfect choice?
 - Collaborative Peace: Does this foster a peaceful and collaborative environment?

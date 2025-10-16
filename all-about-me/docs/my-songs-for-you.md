@@ -3,7 +3,7 @@
 ## Without Your Blue
 Lyrics by: Dama D. Daliman, song made with Music GPT
 
-[![Video Title](https://img.youtube.com/vi/5CtVuWuGsQY/0.jpg)](https://www.youtube.com/watch?v=5CtVuWuGsQY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5CtVuWuGsQY?si=r_toHeO9pnUhZTT_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I wrote this song to reminisce my recent memory of a certain friend. Every part of the lyrics depicted some shared memory between us.
 

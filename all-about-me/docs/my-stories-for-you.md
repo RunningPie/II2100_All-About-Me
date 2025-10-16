@@ -2,6 +2,8 @@
 
 ## The Defeat I Won in Manila
 
+![the defeat I won](https://raw.githubusercontent.com/RunningPie/II2100_All-About-Me/refs/heads/main/all-about-me/docs/img/the_defeat_I_won.png)
+
 ### Act I: The Dream in the Clouds
 I can still remember the feeling vividly. After a string of failures in various data competitions, the ticket to the Google Solution Challenge finals in Manila felt like redemption. On the plane, my mind was filled with heroic daydreams. "Is this the moment?" I thought. "To carry the name of my nation and my university onto the international stage." I pictured the flag being raised, a victory that would silence all doubt.
 
