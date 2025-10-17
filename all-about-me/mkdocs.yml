@@ -24,7 +24,7 @@ theme:
 nav:
   - Welcome:
     - Home: index.md
-    - 1. Introduction: introduction.md
+    - 1. All About Me: all-about-me.md
     - 2. My Songs for You: my-songs-for-you.md
     - 3. My Stories for You: my-stories-for-you.md
     - 4. My Shapes: my-shapes.md
