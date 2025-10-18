@@ -69,7 +69,7 @@ Some of the memories never truly fade, the photobooth photo strip, playful momen
 
 ## Why'd That Chicken Cross The Road?
 
-![Audio](https://raw.githubusercontent.com/RunningPie/why_the_chicken_cross_the_road.mp3)
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2193050283&color=%2300aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/dama-dhananjaya-daliman" title="Dama Dhananjaya Daliman" target="_blank" style="color: #cccccc; text-decoration: none;">Dama Dhananjaya Daliman</a> · <a href="https://soundcloud.com/dama-dhananjaya-daliman/whyd-the-chicken-cross-the-road" title="Why&#x27;d the chicken cross the road" target="_blank" style="color: #cccccc; text-decoration: none;">Why&#x27;d the chicken cross the road</a></div>
 
 Remember the old riddle "Why did the chicken cross the road?", well you might just find the answer in this song
 
