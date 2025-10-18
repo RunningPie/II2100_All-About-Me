@@ -66,3 +66,74 @@ The bridge and chorus reminisce the moments of goodbye, marking the end of this 
 The second verse depicts the longing for those shared moments, back here, after snapping out of that experience that felt like a fever dream.
 
 Some of the memories never truly fade, the photobooth photo strip, playful moments in laser tag. Right now, trying to relive all of that again, "trying to brew her tea", hoping she feels the same.
+
+## Why'd That Chicken Cross The Road?
+
+![Audio](https://raw.githubusercontent.com/RunningPie/why_the_chicken_cross_the_road.mp3)
+
+Remember the old riddle "Why did the chicken cross the road?", well you might just find the answer in this song
+
+### <strong> === Lyrics === </strong>
+(Verse 1)
+Farmer Joe had a hen,
+She ran off again!
+Flapped right over the gate,
+Now Joe’s just talkin’ to fate.
+...
+(Chorus)
+Why’d that chicken cross the road?
+Why’d that chicken cross the road?
+The mailman tipped his hat and said,
+“Farmer Joe, where’s she been led?”
+...
+(Verse 2)
+Joe said, “Chasin’ a bee!”
+Mailman smirked, “Nah, not to me.”
+“Maybe meetin’ ol’ Rooster Clive?”
+Mailman chuckled, “She’s too alive!”
+...
+(Verse 3)
+“She’s startin’ a yoga class!”
+“Or takin’ a car that passed!”
+Mailman laughed, “You’re losin’ hope.”
+Joe said, “She’s allergic to my soap!”
+...
+(Chorus)
+Why’d that chicken cross the road?
+Why’d that chicken cross the road?
+The mailman tipped his hat and said,
+“Farmer Joe, she’s in your head.”
+...
+(Verse 4)
+“She’s learnin’ to dance!
+She’s joinin’ a band!
+Maybe she’s scoutin’
+A better land!”
+Mailman just grinned,
+Gave a wink and a nod—
+Left Joe there mumblin’,
+Kickin’ at the sod.
+...
+Then one bright mornin',
+Same ol’ hen, reborn
+Crossed the lane with pride,
+Feathers all adorned.
+...
+Mailman stopped the truck,
+Said, “Well I’ll be”
+Joe leaned in close,
+“What d’ya see?”
+...
+Mailman sighed,
+Shook his head with a groan
+He whispered, real soft
+like the world had known
+...
+"I dunno"
+.
+.
+.
+Why’d that chicken cross the road?
+Nobody knows
+
+
