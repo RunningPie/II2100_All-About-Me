@@ -1,6 +1,6 @@
 # My Songs for You
 
-## Without Your Blue
+## 1) Without Your Blue
 Lyrics by: Dama D. Daliman, song made with Music GPT
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5CtVuWuGsQY?si=r_toHeO9pnUhZTT_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -67,7 +67,7 @@ The second verse depicts the longing for those shared moments, back here, after 
 
 Some of the memories never truly fade, the photobooth photo strip, playful moments in laser tag. Right now, trying to relive all of that again, "trying to brew her tea", hoping she feels the same.
 
-## Why'd That Chicken Cross The Road?
+## 2) Why'd That Chicken Cross The Road?
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2193050283&color=%2300aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/dama-dhananjaya-daliman" title="Dama Dhananjaya Daliman" target="_blank" style="color: #cccccc; text-decoration: none;">Dama Dhananjaya Daliman</a> · <a href="https://soundcloud.com/dama-dhananjaya-daliman/whyd-the-chicken-cross-the-road" title="Why&#x27;d the chicken cross the road" target="_blank" style="color: #cccccc; text-decoration: none;">Why&#x27;d the chicken cross the road</a></div>
 
