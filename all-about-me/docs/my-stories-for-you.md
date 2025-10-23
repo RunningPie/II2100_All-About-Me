@@ -2,7 +2,7 @@
 
 ## The Defeat I Won in Manila
 
-![the defeat I won](https://raw.githubusercontent.com/RunningPie/II2100_All-About-Me/refs/heads/main/all-about-me/docs/img/the_defeat_I_won.png)
+![the defeat I won](https://raw.githubusercontent.com/RunningPie/II2100_All-About-Me/refs/heads/main/all-about-me/docs/img/1750955801469.jpg)
 
 ### Act I: The Scent of Opportunity
 You know, the first thing that truly welcomed me to the Google Solution Challenge Finals in Manila wasn't the glitz of a grand stage or the thunderous applause I had daydreamed about. No, it was the far more humble, almost clinical scent of industrial-strength air conditioning. That sterile aroma, a smell that promised both focus and anxiety, mingled with the constant, fascinating hum of a dozen different languages swirling together. It was a veritable Tower of Babel, but for code. Ten teams, different nations, all speaking the universal dialects of Python and JavaScript, yet all whispering their own unique hopes.
