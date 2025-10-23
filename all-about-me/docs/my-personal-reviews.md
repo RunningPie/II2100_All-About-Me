@@ -104,4 +104,6 @@ In this next section, I will be reviewing some of my peers' work on the similar 
 
 <br>
 
-If you want, you can also download the pdf version of the spreadsheet above from [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQWVyN-6-HfYutyzBwx7OscTbcbzMVxBQII6-tM_a63m-8dFNlJZ0235vIrn7Zq0Q/pub?gid=1095552240&single=true&output=pdf)
+You can also download the PDF version of the spreadsheet [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQWVyN-6-HfYutyzBwx7OscTbcbzMVxBQII6-tM_a63m-8dFNlJZ0235vIrn7Zq0Q/pub?gid=1095552240&single=true&output=pdf).
+
+For the Excel version, download the `.xlsx` file from [this GitHub link](https://github.com/your-username/your-repo/raw/main/path/to/your-file.xlsx).
