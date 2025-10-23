@@ -4,7 +4,6 @@ Portfolio Asesmen II2100 KIPP
 
 <!-- ![dama intro pic](https://raw.githubusercontent.com/RunningPie/II2100_All-About-Me/refs/heads/main/all-about-me/docs/img/1750955801469.jpg) -->
 
-<img src="https://raw.githubusercontent.com/RunningPie/II2100_All-About-Me/refs/heads/main/all-about-me/docs/img/1750955801469.jpg" height="40">
 
 Author: 18222047 Dama D. Daliman
 
@@ -14,7 +13,10 @@ Published: September 18, 2025
 
 Hi! I’m Dama D. Daliman a final‑year undergrad, part‑time backend wrangler, full‑time dreamer. Right now, I’m on a fast‑track program that lets me leapfrog straight into a master’s specialization in AI (because why walk when you can sprint into the future, right?).
 
+<img src="https://raw.githubusercontent.com/RunningPie/II2100_All-About-Me/refs/heads/main/all-about-me/docs/img/new_1750955801469.jpg" height="40">
+
 My life is basically a balancing act between real intelligence (humans) and fake intelligence (machines), though honestly, sometimes the machines are easier to reason with. I’m also the big brother in a family of two kids, which means I’ve been debugging sibling conflicts long before I ever debugged code.
+
 
 But this passion for making complex systems work together didn’t just appear overnight, unlike a certain Disney princess who woke up singing with birds 😉. I once dreamed of building “super AI” after watching an anime where it looked ridiculously cool. Two years into college, I was knee‑deep in data, swinging at insights like a kid with a piñata stick. Spoiler: most of the time, the candy didn’t fall.
 
