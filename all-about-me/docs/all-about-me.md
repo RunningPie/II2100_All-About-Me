@@ -2,7 +2,9 @@
 
 Portfolio Asesmen II2100 KIPP
 
-![dama intro pic](https://raw.githubusercontent.com/RunningPie/II2100_All-About-Me/refs/heads/main/all-about-me/docs/img/IMG_20251023_110800.png)
+<!-- ![dama intro pic](https://raw.githubusercontent.com/RunningPie/II2100_All-About-Me/refs/heads/main/all-about-me/docs/img/1750955801469.jpg) -->
+
+<img src="https://raw.githubusercontent.com/RunningPie/II2100_All-About-Me/refs/heads/main/all-about-me/docs/img/1750955801469.jpg" height="40">
 
 Author: 18222047 Dama D. Daliman
 
