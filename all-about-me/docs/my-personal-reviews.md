@@ -106,4 +106,4 @@ In this next section, I will be reviewing some of my peers' work on the similar 
 
 You can also download the PDF version of the spreadsheet [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQWVyN-6-HfYutyzBwx7OscTbcbzMVxBQII6-tM_a63m-8dFNlJZ0235vIrn7Zq0Q/pub?gid=1095552240&single=true&output=pdf).
 
-For the Excel version, download the `.xlsx` file from [this GitHub link](https://github.com/RunningPie/II2100_All-About-Me/blob/main/all-about-me/docs/II2100%20-%2018222047%20-%20UTS-5_Skor.xlsx).
+For the Excel version, download the `.xlsx` file from [this GitHub link](https://github.com/RunningPie/II2100_All-About-Me/raw/refs/heads/main/all-about-me/docs/II2100%20-%2018222047%20-%20UTS-5_Skor.xlsx).
