@@ -12,7 +12,7 @@ I wrote this song to reminisce my recent memory of a certain friend. Every part 
 (Intro)</br>
 Do you recall that hackathon glow?</br>
 Projects on screens, crowds moving slow</br>
-Then you turned—smiling like sunrise—</br>
+Then you turned—smiling like sunrise-</br>
 Lit up the room with your bright eyes.</br>
 
 All in blue, with tea in hand,</br>
@@ -23,7 +23,7 @@ I wished my spark was you to hold.</br>
 (Bridge)</br>
 Now I stare at this empty sky,</br>
 Can’t unsee our last “goodbye.”</br>
-I boarded my flight, you waved below—</br>
+I boarded my flight, you waved below-</br>
 The world went quiet… without your glow.</br>
 
 (Chorus)</br>
@@ -35,7 +35,7 @@ Is just… without you.</br>
 (Verse 2)</br>
 Back in my city, streets feel gray,</br>
 Play “Parting Ways” most every day.</br>
-That photobooth strip—you laughing, me—</br>
+That photobooth strip—you laughing, me-</br>
 Stuck on my mirror, haunting me.</br>
 
 We chased red beams in laser tag dark,</br>
@@ -46,7 +46,7 @@ And hope your soul feels… just as bright.</br>
 (Chorus) </br>
 Now I stare at this empty sky,</br>
 Can’t unsee your wave “goodbye.”</br>
-You stayed behind in that bright hall—</br>
+You stayed behind in that bright hall-</br>
 Left me aching… missing all.</br>
 
 (Outro)</br>
@@ -143,7 +143,7 @@ Farmer Joe represents all of us: endlessly searching for reasons, crafting elabo
 
 The mailman? He’s life itself: calm, amused, and ultimately silent. He never gives an answer—not because he’s cruel, but because **some questions don’t have answers. And that’s okay.**
 
-When he finally says, “I dunno,” it’s not a failure—it’s freedom.
+When he finally says, “I dunno,” it’s not a failure, it’s freedom.
 
 The chicken crosses the road not for a reason we can name, but simply because she chooses to. She follows her own path, feathers adorned, pride intact—unbothered by logic, expectation, or Farmer Joe’s theories.
 

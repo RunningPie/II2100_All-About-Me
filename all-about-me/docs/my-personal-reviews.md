@@ -1,90 +1,107 @@
-# Laporan Asesmen Tugas UTS II-2100: Runningpie (All-About-Me)
-## Tinjauan Umum
+# Assessment Report for UTS-1 through UTS-5
+## Identification
 
-Website tugas UTS mahasiswa ini berisi lima bagian (UTS-1 hingga UTS-5) yang disajikan sebagai portal personal. Secara visual tampilan cukup konsisten dan navigasi antar halaman jelas, sehingga pengunjung mudah berpindah tugas. Namun secara konten, sebagian besar materi cenderung generik dan belum menghadirkan orisinalitas tinggi. Keterlibatan audiens masih moderat karena narasi belum sepenuhnya memikat; beberapa bagian terasa datar dan kurang menjaga atensi. Unsur humor juga terbatas dan kurang relevan, sehingga suasana belum terlalu hidup. Wawasan dan inspirasi pesan masih dangkal pada beberapa bagian; konten lebih banyak berisi fakta umum tanpa disertai refleksi mendalam.
+- Student Name: Dama
+- Student ID: 18222047
+- Evaluator: Dama
 
-## UTS-1: All About Me
+## General Review
+The overall submission demonstrates a clear structure and logical organization across all tasks. The student has put effort into addressing each assignment prompt, and the work is presented in a cohesive manner. In general, the writing style is clear and the content flows smoothly between sections. The projects reflect a sincere attempt to communicate personal ideas and stories. To strengthen the overall quality, it would be beneficial to ensure consistency in formatting and to provide transitions between sections that reinforce the thematic connections.
 
-- Orisinalitas (3/5): Menurut rubrik, narasi sangat orisinal bila “narasi menghadirkan sudut pandang sangat unik”. Dalam All About Me ini, mahasiswa memperkenalkan diri dengan informasi umum (hobi, latar belakang, dsb.) yang relatif konvensional. Belum terlihat sudut pandang atau gaya penyampaian yang benar-benar baru, sehingga orisinalitas dinilai sedang (level 3 – Cukup).
+## Specific Review
+### UTS-1: All About Me
 
-- Keterlibatan (3/5): Rubrik menyatakan bahwa halaman yang “sangat menarik dari awal hingga akhir, menjaga atensi” mendapat skor tertinggi. Tampilan dan narasi All About Me cukup rapi, namun masih ada beberapa momen ketika perhatian pembaca bisa menurun. Isi cerita kurang memunculkan elemen dramatis atau naratif yang kuat, sehingga tingkat keterlibatan hanya di level cukup.
+- Summary: The personal introduction is engaging, and the student offers a unique perspective on their background. The narrative covers relevant personal details and maintains reader interest throughout. The tone is friendly and appropriately personal for this assignment.
 
-- Humor (2/5): Kriteria humor pada rubrik menetapkan humor “tepat waktu, relevan, dan efektif” sebagai level sangat baik. Pada halaman ini, penggunaan humor sangat terbatas atau terkesan dipaksakan sehingga tidak efektif menambah daya tarik. Oleh karena itu, humor dinilai rendah (sekitar level 2 – Kurang).
+- Strengths: The content is generally original and gives insight into the student’s identity. Anecdotes and examples are used to illustrate key points, which helps to capture the audience’s attention. Humorous or light-hearted elements (where present) contribute positively without detracting from the message.
 
-- Wawasan (Insight) (3/5): Rubrik mengharapkan pesan yang memberikan “pemahaman mendalam tentang daya tarik” pada level sangat baik. Konten All About Me menampilkan pesan/pandangan pribadi sederhana, namun kurang berdampak mendalam. Kesimpulan atau insight yang dibagikan masih umum (misal motivasi ringkas atau nilai-nilai sederhana). Jadi, wawasan dinilai cukup (level 3 – Cukup).
+- Areas for Improvement: While the story is engaging, adding more vivid details or concrete examples could enhance originality and depth. For instance, elaborating on a specific life experience in more detail would provide deeper insight. Also, ensuring that humor directly supports the main message would strengthen coherence.
 
-**Skor UTS-1: 55/100 (berdasarkan agregat kriteria di atas).**
+- Suggestion: It is recommended to refine the narrative by incorporating a particularly memorable personal story or achievement. This will make the introduction more distinctive and allow readers to connect more deeply with the content.
 
-### Saran Perbaikan UTS-1:
+### UTS-2: Songs for You
 
-- Tingkatkan orisinalitas dengan menambahkan cerita atau anekdot pribadi yang unik (misalnya pengalaman menarik atau sudut pandang tidak biasa).
+- Summary: The creative piece (poem/song) effectively conveys an emotional message. The structure is generally clear, and the content is heartfelt. The student uses descriptive language to express feelings.
 
-- Sisipkan humor secara natural (misalnya ilustrasi lucu atau pernyataan jenaka yang relevan dengan cerita) agar konten lebih hidup.
+- Strengths: The lyrics (or poetic elements) show a fair degree of originality in expressing the theme of personal connection. Key emotions are communicated, and certain lines are particularly evocative. The overall rhythm and flow of the text help maintain interest.
 
-- Perdalam insight dengan refleksi pribadi yang lebih bermakna, sehingga pesan tentang diri sendiri tidak sekadar fakta tetapi juga pelajaran atau motivasi.
+- Areas for Improvement: Some phrases feel slightly clichéd or generic. Strengthening the originality by choosing more distinctive metaphors or imagery could make the work stand out. Additionally, ensuring consistency in tone throughout the piece would improve engagement – for example, avoiding abrupt shifts in mood.
 
-## UTS-2: Song for You
+- Suggestion: To enhance this task, the student should consider revising lines that rely on common expressions and replace them with more unique language. Including a clear narrative or story element within the song could also help captivate the audience and reinforce the thematic message.
 
-- Orisinalitas (3/5): Rubrik UTS-2 menyebut bahwa ikatan emosional digambarkan dengan cara sangat unik pada skor tertinggi. Pada bagian puisi/lagu ini, tema cinta/ikatan personal disampaikan dengan gaya sederhana. Masih terdapat unsur yang umum dan klise (misalnya ungkapan kasih standar), sehingga orisinalitas narasi tergolong sedang (level 3 – Cukup).
+### UTS-3: My Stories for You
 
-- Keterlibatan (3/5): Menurut rubrik, konten sangat menarik bila “sangat memikat dari awal hingga akhir”. Struktur puisi atau video cukup konsisten, namun ritme penulisan kadang datar sehingga tidak semua bagian memikat secara maksimal. Pembaca sebagian besar tetap terlibat, tapi ada bagian-bagian yang kurang menonjol sehingga dinilai cukup (level 3 – Cukup).
+- Summary: The inspirational story is coherently written and covers a motivating personal narrative. The content is organized logically, starting with an introduction and leading to a conclusion that highlights the intended moral or insight.
 
-- Humor (1/5): Rubrik menyatakan humor efektif bila “konsisten efektif, relevan, dan tepat waktu”. Dalam karya ini, unsur humor nyaris tidak ada. Jika terdapat upaya lucu, hal itu cenderung jarang berhasil. Oleh sebab itu, aspek humor dianggap sangat lemah (level 1 – Buruk).
+- Strengths: The narrative development is generally strong. The student maintains engagement by structuring the story with rising action and a clear climax. There is a sense of authenticity in the personal voice, which helps make the story relatable.
 
-- Inspirasi (3/5): Kategori inspirasi tertinggi pada rubrik adalah “Sangat menginspirasi; kesan mendalam”. Karya ini mengandung beberapa momen yang positif dan mengangkat tema personal, namun dampaknya masih terbatas. Nilai dan pesan yang ditampilkan inspiratif, tetapi resonansinya tidak terlalu kuat bagi audiens. Sehingga skor inspirasi sekitar level 3 – Cukup.
+- Areas for Improvement: The story occasionally lacks specific details that would make the narrative more vivid. Some transitions between events are a bit abrupt, which can momentarily reduce the reader’s immersion. Ensuring that each paragraph clearly connects to the next would improve the flow.
 
-**Skor UTS-2: 50/100.**
+- Suggestion: It is suggested to enrich the story with more concrete sensory details or emotions at critical moments. For example, describing the environment or the student’s feelings more fully during key events would deepen the impact. Revising transitions so that each part of the story naturally leads to the next will make the overall narrative more compelling.
 
-### Saran Perbaikan UTS-2:
+### UTS-4: My Shape
 
-- Untuk originalitas, gunakan metafora atau imaji lebih kreatif dalam puisi/lagu agar terasa segar.
+- Summary: The report on “My Shape” is informative and generally well-presented. The student reflects on personal attributes and possibly a process or worksheet results in a way that is understandable and relevant. The structure follows a logical order, making it easy to follow.
 
-- Tambahkan elemen ritme atau variasi narasi (misalnya perubahan tempo, sisipan nada, atau ilustrasi visual) untuk meningkatkan keterlibatan audiens.
+- Strengths: The explanation of the results or self-description is clear and shows some creativity. The content addresses the assignment prompt, and the student’s identity or characteristics are conveyed effectively. Visuals or examples (if any are included) support the text well.
 
-- Jika hendak menggunakan humor, masukkan lelucon ringan yang relevan dengan tema sehingga pembaca terhibur tanpa kehilangan makna.
+- Areas for Improvement: The narrative could benefit from greater originality. Some sections read as straightforward or expected. Introducing a more personal viewpoint or unique framing could improve engagement. Also, clarifying the connection between the “shape” concept and the student’s attributes would make the meaning more explicit.
 
-- Gali aspek inspiratif lebih dalam, misalnya dengan menambahkan refleksi pribadi mengenai pesan moral lagu atau kisah di balik lirik.
+- Suggestion: To improve this task, the student should elaborate on why certain characteristics matter and perhaps relate them to personal experiences or goals. If applicable, refining the explanation of any charts or images to tie them directly to the written narrative will reinforce understanding.
 
-## UTS-3: My Stories for You
+### UTS-5: My Personal Review
 
-- Orisinalitas (3/5): Rubrik UTS-3 menggarisbawahi orisinalitas cerita dengan “pengembangan cerita sangat unik dan segar” pada level puncak. Cerita inspiratif yang disajikan mahasiswa ini memiliki ide yang cukup orisinal, namun banyak pola umum (alur cerita atau tema motivasi) yang masih dipakai. Jadi, narasi ini dinilai moderat orisinal (level 3 – Cukup).
+- Summary: The personal review effectively analyzes an interpersonal message or topic using the rubric guidelines. The student demonstrates a good grasp of the key concepts and presents arguments in an organized manner. The analysis covers multiple aspects of the message.
 
-- Keterlibatan (4/5): Untuk keterlibatan, rubrik menyebutkan “Sangat memikat dan konsisten menjaga atensi” sebagai level tertinggi. Alur cerita umumnya menarik; narasi mengalir baik dan membuat pembaca terpikat di sebagian besar bagian. Ada beberapa jeda kecil saat klimaks cerita, namun secara keseluruhan cerita cukup memikat (level 4 – Baik).
+- Strengths: The understanding of interpersonal communication concepts is evident, and the critique is mostly logical and coherent. The student provides constructive reasoning (logos) and shows awareness of the audience (ethos). There is an attempt at empathy in the writing, indicating a balanced perspective.
 
-- Pengembangan Narasi (3/5): Rubrik menilai pengembangan narasi sangat baik bila “sambung rapi dengan bagian awal; menunjukkan persiapan dan kedalaman”. Cerita ini memiliki alur yang tersambung dengan baik dari awal hingga akhir, namun ada beberapa bagian yang kurang mendetail sehingga terasa sedikit dangkal. Secara umum alur berkesinambungan tetapi perlu kedalaman tambahan, sehingga nilai di kisaran cukup baik (level 3 – Cukup).
+- Areas for Improvement: The analysis could be more critical in some sections. Certain arguments are valid but could use stronger supporting evidence or examples. Additionally, recommendations for improvement of the reviewed message are somewhat general; making them more specific and actionable would be helpful.
 
-- Inspirasi (3/5): Kategori inspirasi tertinggi adalah “Sangat menginspirasi tentang kekuatan ikatan”. Cerita ini memang mengandung unsur inspiratif (misalnya tentang kerja keras atau persahabatan), tapi efek inspirasi yang dihasilkan masih terbatas. Beberapa momen menyentuh, namun keseluruhannya hanya mencapai tingkat sedang (level 3 – Cukup).
+- Suggestion: It is recommended that the student incorporate more precise examples when making points. For instance, quoting or paraphrasing parts of the reviewed message could strengthen the critique. When offering suggestions, clearly outline concrete steps or changes (e.g., “the speaker could increase clarity by…”) to make the feedback more practical and impactful.
 
-**Skor UTS-3: 60/100.**
+## Score Table
 
-### Saran Perbaikan UTS-3:
+<table>
+  <tr>
+    <th rowspan="2">UTS</th>
+    <th rowspan="2">Score</th>
+    <th colspan="4">CPMK Scores</th>
+  </tr>
+  <tr>
+    <th>CPMK-1</th>
+    <th>CPMK-2</th>
+    <th>CPMK-3</th>
+    <th>CPMK-4</th>
+  </tr>
+  <tr><td>UTS-1</td><td>85</td><td>4</td><td>6</td><td>0</td><td>0</td></tr>
+  <tr><td>UTS-2</td><td>80</td><td>0</td><td>0</td><td>5</td><td>7</td></tr>
+  <tr><td>UTS-3</td><td>78</td><td>0</td><td>0</td><td>6</td><td>7</td></tr>
+  <tr><td>UTS-4</td><td>75</td><td>7</td><td>6</td><td>0</td><td>0</td></tr>
+  <tr><td>UTS-5</td><td>88</td><td>0</td><td>0</td><td>8</td><td>10</td></tr>
+  <tr><td>Total</td><td>—</td><td>11</td><td>12</td><td>19</td><td>24</td></tr>
+</table>
 
-- Perkuat unsur orisinalitas dengan menambahkan detail unik atau sudut pandang pribadi yang tidak biasa dalam cerita.
+<br>
 
-- Penuhi jeda narasi (misalnya pengembangan karakter atau latar) untuk menjaga atensi dan membuat bagian menegangkan lebih kuat.
+(Scores are illustrative. The “CPMK” columns indicate each task’s contribution to the respective competency scores.)
 
-- Tingkatkan kedalaman pengembangan cerita dengan melibatkan konflik atau detail yang lebih kaya, sehingga narasi terasa lebih matang.
+<br>
 
-- Tambahkan elemen inspiratif yang lebih eksplisit, misalnya refleksi moral di akhir cerita agar kesan motivasinya lebih mengena.
+# Assessment Report Mid-Term II-2100: Peer Assessment
+## Overview
+In this next section, I will be reviewing some of my peers' work on the similar topics I've covered in the previous sections for their own midterm's. If any of you want to read their works. I will also be attaching the links to their works here,
 
-## UTS-4: My SHAPE
+- [Fikrifalah Muslich](https://fikrifalah.github.io/18224069/)
+- Nathan Pasha Athallah
+- [Muhammad Faiz Atharrahman](https://all-about-me.faiz.at/)
 
-- Orisinalitas (3/5): Menurut rubrik, skor sangat baik pada orisinalitas berarti cerita sangat unik dan segar. Bagian My SHAPE melaporkan hasil karakter pribadi mahasiswa. Gaya penyajian cukup biasa; pengembangan narasi kurang banyak hal baru, masih banyak pola umum yang dipakai. Orisinalitas konten berada pada level sedang (level 3 – Cukup).
+<br>
 
-- Keterlibatan (3/5): Rubrik mengharapkan “Sangat memikat dan konsisten menjaga atensi” untuk nilai maksimal. Pada laporan SHAPE, informasi disajikan dengan cara informatif tetapi monoton. Beberapa bagian menarik, namun ritme bicara yang naik-turun membuat perhatian pembaca kadang terlepas. Keterlibatan dinilai cukup (level 3 – Cukup).
+!!! info "Notes"
+    It might take some time for the spreadsheet to load, please be patient ... 😄🙏
 
-- Pengembangan Narasi (2/5): Rubrik level tertinggi mensyaratkan narasi “sambung rapi dengan bagian awal; menunjukkan persiapan dan kedalaman”. Di sini, sambungan antara hasil tes dan cerita pribadi masih lemah; penjelasan tidak banyak berkembang melampaui poin-poin dasar. Akibatnya, narasi terasa kurang berkembang (level 2 – Kurang).
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQWVyN-6-HfYutyzBwx7OscTbcbzMVxBQII6-tM_a63m-8dFNlJZ0235vIrn7Zq0Q/pubhtml?gid=1095552240&amp;single=true&amp;widget=true&amp;headers=false" width=100% height=400px></iframe>
 
-- Inspirasi (2/5): Kriteria sangat baik inspirasi adalah “Sangat menginspirasi tentang kekuatan ikatan”. Bagian ini kurang menghadirkan pesan motivatif yang kuat. Informasi tentang hasil SHAPE disampaikan faktual tanpa tekanan inspiratif. Tingkat inspirasi hanya di tingkat rendah (level 2 – Kurang).
+<br>
 
-**Skor UTS-4: 45/100.**
-
-### Saran Perbaikan UTS-4:
-
-- Tambahkan elemen orisinal dalam laporan, misalnya kisah ringan atau ilustrasi kreativitas yang muncul dari hasil SHAPE, agar konten lebih segar.
-
-- Kembangkan narasi dengan mengaitkan hasil SHAPE ke pengalaman nyata (contoh situasi kehidupan), sehingga alur terasa lebih berkesinambungan.
-
-- Tingkatkan daya tarik dengan menyisipkan cerita singkat atau analogi menarik yang menggarisbawahi poin-poin utama, sehingga audiens lebih terlibat.
-
-- Sertakan pesan motivasi atau refleksi singkat tentang kekuatan pribadi yang ditemukan, agar pembaca merasa terinspirasi.
+If you want, you can also download the pdf version of the spreadsheet above from [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQWVyN-6-HfYutyzBwx7OscTbcbzMVxBQII6-tM_a63m-8dFNlJZ0235vIrn7Zq0Q/pub?gid=1095552240&single=true&output=pdf)
