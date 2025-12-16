@@ -1,5 +1,7 @@
 # The AI-Powered Public Health Vending Machine
 
+<img src="https://raw.githubusercontent.com/RunningPie/II2100_All-About-Me/refs/heads/main/all-about-me/docs/img/my_innovations_infographic.png" alt="Visual infographic defining the features of the AI-Powered Health Kiosk" height="40">
+
 ## System Architecture: The PUDAL Control Cycle
 The core innovation is an AI-Powered Public Health Vending Machine designed to execute the PUDAL (Perception, Understanding, Decision, Action, Learning) cycle autonomously. This is not a passive vending machine; it is an intelligent clinical node.
 

@@ -2,6 +2,8 @@
 
 This section curates the knowledge gained during literature research of conceptualizing the idea for AI-Powered Public Health Vending Machine, focusing on the lessons learned about system failure, ethics, and the holistic nature of engineering.
 
+<img src="https://raw.githubusercontent.com/RunningPie/II2100_All-About-Me/refs/heads/main/all-about-me/docs/img/my_knowledge_infographic.png" alt="Visual infographic explaining the lessons learned in holistic tech innovation" height="40">
+
 ## The Fallacy of "Tech-First" and the Importance of the "Heart"
 One of the most critical lessons I have learned is that technical superiority does not guarantee success. The case study of [HealthSpot](https://www.bizjournals.com/columbus/news/2020/11/20/healthspot-bankruptcy-winding-down.html), a kiosk company that went bankrupt despite having advanced technology, teaches us that the "Energy" (economic viability) and "Heart" (user experience) are just as important as the "Mind" (AI). HealthSpot failed because it was too expensive (high OPEX) and created workflow friction—it was an island, unconnected to the patient's medical home.
 

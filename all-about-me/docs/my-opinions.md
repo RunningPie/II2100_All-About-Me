@@ -2,6 +2,8 @@
 
 This section articulates my professional stance as an Information Systems Technology (IST) student, arguing that the solution requires a shift from passive technology support to proactive socio-technical system design.
 
+<img src="https://raw.githubusercontent.com/RunningPie/II2100_All-About-Me/refs/heads/main/all-about-me/docs/img/my_opinions_infographic.png" alt="Visual infographic defining the gap of the current health technology" height="40">
+
 ## The Moral Imperative of the "Smart Scribe" (Juru Tulis Cerdas)
 As an undergraduate in Information Systems, I believe my role must evolve beyond merely writing code to becoming an architect of "Social-Technical Ecosystems." I firmly oppose the view that technology is a neutral tool, rather, it is an active agent that can either exacerbate or bridge inequality. My stance is that we must utilize IT to act as the "Juru Tulis Cerdas" (Smart Scribe/Instrument) described in the TISE philosophy. We possess the "Homodeus" capabilities: the algorithms, the data processing power, and the connectivity, but we have a moral obligation to direct these powers toward "Homocordium" (human-centric) goals. Facing the condition of health inaccessibility, inaction is a failure of our discipline.
 

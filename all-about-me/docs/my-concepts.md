@@ -1,6 +1,6 @@
 # **The Crisis of Coordination in Public Health**
 
-<img src="https://raw.githubusercontent.com/RunningPie/II2100_All-About-Me/refs/heads/main/all-about-me/docs/img/my_concepts_infographic.jpg" height="40">
+<img src="https://raw.githubusercontent.com/RunningPie/II2100_All-About-Me/refs/heads/main/all-about-me/docs/img/my_concepts_infographic.png" alt="Visual infographic defining what is a care desert" height="40">
 
 ## The anatomy of "Care Deserts" and the Last Mile Problem
 The fundamental phenomenon addressing the inaccessibility of basic medical services is best understood through the concept of "Care Deserts." These are geographic or socioeconomic zones where the population lacks adequate access to essential health services, creating a profound "Last Mile" problem in public health delivery. While modern medicine has achieved expert-level diagnostic capabilities, these advancements remain centralized in urban hubs, effectively decoupling "capacity" from "delivery." [Current data](https://www.cdc.gov/mmwr/volumes/73/ss/ss7302a1.htm) indicates that rural populations experience significantly higher mortality rates from treatable conditions compared to urban populations, primarily due to the logistical friction of accessing care. This is not simply a lack of doctors; it is a spatial mismatch between where expertise resides and where humanity lives.   
